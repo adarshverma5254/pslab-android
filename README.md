@@ -4,7 +4,6 @@ Repository for the PSLab Android App for performing experiments with the [Pocket
 
 [![Build Status](https://travis-ci.org/fossasia/pslab-android.svg?branch=development)](https://travis-ci.org/fossasia/pslab-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd728d91bb5743ff916c16c1251f8dd5)](https://www.codacy.com/app/praveenkumar103/pslab-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fossasia/pslab-android&amp;utm_campaign=Badge_Grade)
-[![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/pslab-fossasia)
 ![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-23-green)
 ![Maximum API Level](https://img.shields.io/badge/Max%20API%20Level-28-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fossasia/pslab-android)
@@ -16,10 +15,6 @@ This repository holds the Android App for performing experiments with [PSLab](ht
 <a href="https://play.google.com/store/apps/details?id=io.pslab"><img alt="Get it on Google Play" height="80" src="/docs/images/playstore_badge.png"></a>
 <a href="https://f-droid.org/app/io.pslab"><img alt="Get it on F-Droid" height="80" src="/docs/images/fdroid_badge.png"></a>
 
-## Buy
-
-* You can get a Pocket Science Lab device from the [FOSSASIA Shop](https://fossasia.com).
-* More resellers are listed on the [PSLab website](https://pslab.io/shop/).
 
 ## Communication
 
